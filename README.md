@@ -1,4 +1,4 @@
-# Hey, everyone! <img src=">
+# Hey, everyone! <img src="https://github.com/varma-cephas/varma-cephas/blob/main/cool.gif">
 
 <!--
 **varma-cephas/varma-cephas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
