@@ -6,7 +6,7 @@ My name is Varma Cephas and I'm currently a Web Developer. I'm from Liberia, stu
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=61c9a8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=61c9a8)
 ![](https://img.shields.io/badge/Styling-CSS-informational?style=flat&logo=css3&logoColor=white&color=61c9a8)
-![](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff))
+![](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
 
 ## Get in Touch
 - **Email**: [my email](mailto:varmac231@gmail.com)
