@@ -1,6 +1,5 @@
-# Hey, everyone! <img src="https://github.com/varma-cephas/varma-cephas/blob/main/cool.gif" width="28px" height="28px">
+# Hello!
 
-My name is Varma Cephas and I'm currently a Web Developer. I'm from Liberia, studying BBA in Accounting Kigali, Rwanda.
 
 ## 🔧 Tools and Technologies I currently use
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=61c9a8)
@@ -14,4 +13,4 @@ My name is Varma Cephas and I'm currently a Web Developer. I'm from Liberia, stu
 
 ## Let's Collaborate!
 
-Let's collaborate if you're into anything web dev, technology, or start-up related. I'm always happy to share my experince and work on exciting projects! Many Thanks! 
+Let's collaborate if you're into anything web dev, technology, or start-up related. I'm always happy to share my experince and work on exciting projects!
