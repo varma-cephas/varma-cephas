@@ -2,9 +2,10 @@
 
 
 ## Tools and Technologies I currently use
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=javascript&logoColor=white&color=61c9a8)
-![](https://img.shields.io/badge/Styling-CSS-informational?style=flat&logo=css3&logoColor=white&color=61c9a8)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=61c9a8)
+![](https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwindcss3&logoColor=white&color=61c9a8)
 ![](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
+![](https://img.shields.io/badge/Bash-F15A24?logo=bash&logoColor=fff)
 - **Frontend:** React, NestJS, TypeScript, Turporepo
 - **Tools:** Git, GitHub, VS Code, pnpm, 
 
