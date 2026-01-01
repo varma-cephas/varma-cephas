@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Varma Cephas!
+# Hi, I'm Varma Cephas!
 
 
 ## Tools and Technologies I currently use
