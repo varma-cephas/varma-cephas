@@ -6,8 +6,9 @@
 ![](https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwindcss3&logoColor=white&color=61c9a8)
 ![](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
 ![](https://img.shields.io/badge/Bash-F15A24?logo=bash&logoColor=fff)
-- **Frontend:** React, NestJS, TypeScript, Turporepo
-- **Tools:** Git, GitHub, VS Code, pnpm, 
+- **Frontend:** React
+- **Backend:** NodeJS, ExpressJS, NestJS
+- **Tools:** Git, GitHub, VS Code, pnpm, Turporepo, TypeScript
 
 ## About Me
 I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new technologies to enhance my skills and contribute to exciting projects.
