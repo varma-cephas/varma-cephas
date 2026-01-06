@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwindcss3&logoColor=white&color=61c9a8)
 ![](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
 ![](https://img.shields.io/badge/Bash-F15A24?logo=bash&logoColor=fff)
-- **Frontend:** React
+- **Frontend:** React, TailwindCSS
 - **Backend:** NodeJS, ExpressJS, NestJS
 - **Tools:** Git, GitHub, VS Code, pnpm, Turporepo, TypeScript
 
