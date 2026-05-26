@@ -8,10 +8,7 @@
 ![](https://img.shields.io/badge/Bash-F15A24?logo=bash&logoColor=fff)
 - **Frontend:** React, TailwindCSS
 - **Backend:** NodeJS, ExpressJS, NestJS
-- **Tools:** Git, GitHub, VS Code, pnpm, Turporepo, TypeScript
-
-## About Me
-I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new technologies to enhance my skills and contribute to exciting projects.
+- **Tools:** Git, GitHub, VS Code, pnpm, TypeScript
 
 ## Currently Learning
 - Software architecture
